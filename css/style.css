@@ -3,6 +3,14 @@
   --color02: #10202d;
   --color03: #e4746c;
 }
+h1 {
+  font-size: 3em;
+  font-family: "Dancing Script", cursive;
+}
+h2 {
+  text-transform: uppercase;
+  font-family: "Bebas Neue", Arial, Helvetica, sans-serif;
+}
 
 html,
 body {
