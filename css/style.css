@@ -1,0 +1,35 @@
+:root {
+  --color01: #dadcc7;
+  --color02: #10202d;
+  --color03: #e4746c;
+}
+
+html,
+body {
+  height: 100%;
+}
+img {
+  border-radius: 50%;
+}
+body {
+  background-color: var(--color02);
+  color: var(--color01);
+}
+.container {
+  height: 100%;
+  display: flex;
+  /* flex-direction: column; */
+  align-items: center;
+  justify-content: center;
+}
+article {
+  text-align: center;
+}
+a {
+  color: var(--color03);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
