@@ -1,4 +1,4 @@
 # leilanislibrary
 
 Repo for my wife's etsy site
-Deployed at: http://www.leilanislibrary.com
+Deployed with Netlify at: http://www.leilanislibrary.com
